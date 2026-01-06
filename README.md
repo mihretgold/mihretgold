@@ -2,15 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihretgold&label=Profile%20views&color=0e75b6&style=flat" alt="mihretgold" /> </p>
 
-- 🔭 I’m currently working on **as a Mobile Developer at Africa to Silicon Valley**
+- 🔭 I’m currently working on **as a Software Engineer at Chromaway**
 
-- 🌱 I’m currently learning **React, Next, Data Science**
+- 🌱 I’m currently learning **Computer Vision, Deep Learning**
 
-- 👯 I’m looking to collaborate on **for a software engineering position with a company where I can advance my skills and learn best practices**
+- 👯 I’m looking to collaborate on **Research projects on AI**
 
 - 📫 How to reach me **mihretagegnehu2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xeSUeps-M2T8qFjfOQQM3Hd351ukohoA/view?usp=sharing](https://drive.google.com/file/d/1xeSUeps-M2T8qFjfOQQM3Hd351ukohoA/view?usp=sharing)
+- 📄 Know about my experiences: https://miheret-agegnehu.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
